@@ -4,16 +4,6 @@
 
 💻 Self-taught and passionate about **web/mobile development** and **software engineering**. I’m just getting started in the tech world, but I’ve already developed strong skills, especially in back-end development.
 
----
-
-## 🛠️ Tech Stack
-
-- 🔙 **Back-end**: Ruby / Ruby on Rails, Python / Django  
-- 🎨 **Front-end**: ReactJS  
-- 📱 **Mobile**: React Native  
-- 🛢️ Currently learning: DevOps basics, databases, and more...
-
----
 
 ## 🚀 About Me
 
@@ -26,7 +16,12 @@ Outside of programming:
 
 These interests help me grow both as a developer and as a person. I truly believe that understanding the world around us makes us better at building tech for it.
 
----
+## 🛠️ Tech Stack
+
+- 🔙 **Back-end**: Ruby / Ruby on Rails, Python / Django  
+- 🎨 **Front-end**: ReactJS  
+- 📱 **Mobile**: React Native  
+- 🛢️ Currently learning: DevOps basics, databases, and more...
 
 ## 📂 Projects
 

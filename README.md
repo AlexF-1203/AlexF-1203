@@ -36,8 +36,8 @@ Feel free to explore my repositories! You'll find:
 
 ## 📫 Contact
 
-- [LinkedIn](www.linkedin.com/in/alexis-ferrere-142a3a267)
-- [Email](alexferrere3@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexis-ferrere-142a3a267)
+- [Email](mailto:alexferrere3@gmail.com)
 
 ---
 
